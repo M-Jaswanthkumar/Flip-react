@@ -1,0 +1,31 @@
+{
+  "productsData": [
+    {
+      "productId": "1",
+      "title": "Mobile",
+      "brand": "Realme",
+      "price": "22000",
+      "des": "realme 11 pro+",
+      "imgurl": "https://images.fonearena.com/blog/wp-content/uploads/2023/05/realme-11-Pro-979x1024.jpg",
+      "id": 1
+    },
+    {
+      "productId": "2",
+      "title": "Mobile",
+      "brand": "Realme",
+      "price": "20000",
+      "des": "realme 8s 5G",
+      "imgurl": "https://i.gadgets360cdn.com/large/realme_8s_main_1631386208811.jpg",
+      "id": 2
+    },
+    {
+      "productId": "",
+      "title": "",
+      "brand": "",
+      "price": "",
+      "des": "",
+      "imgurl": "",
+      "id": 3
+    }
+  ]
+}
